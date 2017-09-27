@@ -1,0 +1,11 @@
+POLISH MENU:
+21 Dumplings with meat         18.00
+22 Pork chop with potatoes     14.50
+23 Minced meat with cabbage    11.50
+24 Knuckle                     15.00
+25 Chicken soup                 7.00
+26 Croquettes with meat        11.00
+27 Sour soup                    6.50
+28 Beef with fried potatoes    29.50
+29 Carp in jelly               17.00
+30 Potatoes with sour cream    12.50

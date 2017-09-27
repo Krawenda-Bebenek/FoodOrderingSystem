@@ -1,0 +1,11 @@
+DESSERTS MENU:
+1 Jelly with fruits             8.00
+2 Ice Cream                    18.50
+3 Cheesecake                   14.50
+4 Lava cake                    13.50
+5 Hot chocolate                11.00
+6 Apple pie                    12.50
+7 Waffle & whipped cream        9.50
+8 Panna cotta                   9.50
+9 Tiramisu                     20.00
+10 Black Forest cake           19.00

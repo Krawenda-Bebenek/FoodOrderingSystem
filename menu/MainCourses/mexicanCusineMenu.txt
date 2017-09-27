@@ -1,0 +1,11 @@
+MEXICAN MENU:
+11 Calabacitas con puerco      12.00
+12 Cochinita pibil             13.50
+13 Taquitos                    17.50
+14 Pejelagarto                 15.50
+15 Caldo de queso               7.00
+16 Huevos divorciados          10.00
+17 Mole poblano                28.50
+18 Pastel azteca               29.50
+19 Carne a la tampiqueña       17.00
+20 Queso flameado               8.00

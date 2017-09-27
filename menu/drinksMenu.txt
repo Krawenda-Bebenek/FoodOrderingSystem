@@ -1,0 +1,11 @@
+DRINKS MENU:
+1 Mojito                       17
+2 Cosmopolitan                 21
+3 Cuba Libre                   16.50
+4 Bloody Mary                  18
+5 Blue Moon                    14.50
+6 Tequila Sunrise              13
+7 Angry Cat                    19
+8 Margarita                    16.50
+9 Pina Colada                  18.50
+10 Long Island                 14.00
